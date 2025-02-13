@@ -1,16 +1,17 @@
-Hello! Its me, Manel
+Hello! It's me, Manel
 
-Im sorry to say that on the legal matter, Im completely oblivious. I wanted to put this with no license at all, but a friend told me that would be foolish, im not sure why.
+I'm sorry to say that I'm completely oblivious to the legal matter. I wanted to put this with no license at all, but a friend told me that would be foolish, I'm not sure why.
 
-If Im offending anyone for the license, I deeply apologize, it was not my intention! If im going to have legal issues for licensing something I shouldnt license, I deeply apologize!
-And , for any error, spelling mistake, misstranslation, bad idea or wrong assumption I can only deeply apologize aswell, feel free to point them out and I'll get them corrected
+If I'm offending anyone for the license, I deeply apologize, it was not my intention! If I'm going to have legal issues for licensing something I shouldn't license, I deeply apologize!
+And, for any error, spelling mistake, mistranslation, bad idea, or wrong assumption I can only deeply apologize as well, feel free to point them out and I'll get them corrected.
 
-Feel free to use, comment, advice on and distribute any on the content I'll post on this Github.
+Feel free to use, comment, advise, and distribute any content I'll post on this Github.
 
-I would also apologize for apologizing too much, but I've been adviced not to do that either.
+I would also apologize for apologizing too much, but I've been advised not to do that either.
 
-Have a tucan for reading this all
+Have a tucan for reading this all.
 
+```
 ░░░░░░░░▄▄▄▀▀▀▄▄███▄░░░░░░░░░░░░░░
 ░░░░░▄▀▀░░░░░░░▐░▀██▌░░░░░░░░░░░░░
 ░░░▄▀░░░░▄▄███░▌▀▀░▀█░░░░░░░░░░░░░
@@ -22,3 +23,4 @@ Have a tucan for reading this all
 ░░░░░░░░░░░░░░▀▄░░░▐█████████████▄ 
 ░░░░░░░░░░░░░░░░▀▄▄████████████████ 
 ░░░░░░░░░░░░░░░░░░░░░░░░█▀██████░░
+```
